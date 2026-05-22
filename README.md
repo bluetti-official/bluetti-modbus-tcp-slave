@@ -18,7 +18,7 @@
 
         The username is “admin”, and the password is the Bluetti APP password. If there is no password, leave the field blank.
 
-<img title="" src="file:///C:/Users/310101704/AppData/Roaming/marktext/images/2026-05-22-19-18-01-image.png" alt="" data-align="left" width="765">
+![login](./doc/images/webserver-login.png)
 
         *Note: The device's IP address can be viewed on the network configuration page of the Bluetti APP.*
 
@@ -26,7 +26,7 @@
 
         Click the Settings button to save the configuration.
 
-![](C:\Users\310101704\AppData\Roaming\marktext\images\2026-05-22-19-19-45-image.png)
+![setting-modbus-tcp](./doc/images/webserver-setting-modbus-tcp.png)
 
 # 二.Connect to Modbus TCP
 
